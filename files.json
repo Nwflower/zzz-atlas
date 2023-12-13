@@ -1,240 +1,240 @@
 {
-    "role": {
-        "格莉丝·霍华德": {
-            "path": "/role/格莉丝·霍华德.png",
-            "hash": "6e22138c75bb97043e57e487fbde6392",
-            "ext": "png",
-            "width": 1920,
-            "height": 2786,
-            "size": 1538675,
-            "update": "2023-11-26 22:26:58"
-        }
-    },
     "音擎": {
-        "加农转子": {
-            "path": "/音擎/加农转子.png",
-            "hash": "145c61e32f74e1cf67078a69301c36c2",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 346378,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「湍流」-矢型": {
-            "path": "/音擎/「湍流」-矢型.png",
-            "hash": "31d8b3fb35784fbe213efb15d8b8ebb9",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 276556,
-            "update": "2023-11-26 22:26:58"
-        },
-        "比格气缸": {
-            "path": "/音擎/比格气缸.png",
-            "hash": "4f8ef7eeb42259b8f6b18e93b4daa388",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 339352,
-            "update": "2023-11-26 22:26:58"
-        },
-        "家政员": {
-            "path": "/音擎/家政员.png",
-            "hash": "f2f5d3db06cba0ee65a74f6473e884c6",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 369337,
-            "update": "2023-11-26 22:26:58"
-        },
-        "旋钻机-赤轴": {
-            "path": "/音擎/旋钻机-赤轴.png",
-            "hash": "e5b77ef0fe528e47e386fc2256d2f5d1",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 357821,
-            "update": "2023-11-26 22:26:58"
-        },
-        "触电唇彩": {
-            "path": "/音擎/触电唇彩.png",
-            "hash": "e9fb198d075313b722f414cee1d67174",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 260411,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「残响」-III型": {
-            "path": "/音擎/「残响」-III型.png",
-            "hash": "0394d9da5aba2ce20753681363c8b098",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 270633,
-            "update": "2023-11-26 22:26:58"
-        },
-        "人为刀俎": {
-            "path": "/音擎/人为刀俎.png",
-            "hash": "16d33db25485107bb23b214c5ad4a19f",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 343984,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「残响」-II型": {
-            "path": "/音擎/「残响」-II型.png",
-            "hash": "dd6e8852d6e51680be1d83bc58b0d03a",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 286331,
-            "update": "2023-11-26 22:26:58"
-        },
-        "贵重骨核": {
-            "path": "/音擎/贵重骨核.png",
-            "hash": "618222b68fd5d74723d76554d528393a",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 251085,
-            "update": "2023-11-26 22:26:58"
-        },
-        "星徽引擎": {
-            "path": "/音擎/星徽引擎.png",
-            "hash": "9ab154b81aa9f2c8349ccd527998fbb1",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 286098,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「湍流」-铳型": {
-            "path": "/音擎/「湍流」-铳型.png",
-            "hash": "b123ccf162538b33821d49d953fa018c",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 301553,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「残响」-I型": {
-            "path": "/音擎/「残响」-I型.png",
-            "hash": "dc57802d5d6dda15118eecbf8d173dd3",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 284648,
-            "update": "2023-11-26 22:26:58"
-        },
-        "仿制星徽引擎": {
-            "path": "/音擎/仿制星徽引擎.png",
-            "hash": "d3a9306f870c2c07fc5043685c68699a",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 320924,
-            "update": "2023-11-26 22:26:58"
-        },
         "拘缚者": {
             "path": "/音擎/拘缚者.png",
-            "hash": "eaa821024dcde3a52249b07889833e23",
+            "hash": "3595957b27f3d2573c81edb8c846133b",
             "ext": "png",
             "width": 1920,
-            "height": 900,
-            "size": 386493,
-            "update": "2023-11-26 22:26:58"
-        },
-        "聚宝箱": {
-            "path": "/音擎/聚宝箱.png",
-            "hash": "052bc0d0053cd30e54d2be17667238a3",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 381311,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「月相」-上弦": {
-            "path": "/音擎/「月相」-上弦.png",
-            "hash": "b94cdcdc3a9d3b779c266784be8822fb",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 295265,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「电磁暴」-壹式": {
-            "path": "/音擎/「电磁暴」-壹式.png",
-            "hash": "4d0308f47217ab50469adc63f89b5917",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 272204,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「湍流」-斧型": {
-            "path": "/音擎/「湍流」-斧型.png",
-            "hash": "8c569cb071175f03ab91bfbf3bbddffe",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 282334,
-            "update": "2023-11-26 22:26:58"
-        },
-        "「电磁暴」-贰式": {
-            "path": "/音擎/「电磁暴」-贰式.png",
-            "hash": "d5a5b51bee115fab345e730028c6996d",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 292342,
-            "update": "2023-11-26 22:26:58"
-        },
-        "德玛拉电池II型": {
-            "path": "/音擎/德玛拉电池II型.png",
-            "hash": "2559753541bdd0b98d6bc14e31ce29fa",
-            "ext": "png",
-            "width": 1920,
-            "height": 900,
-            "size": 351602,
-            "update": "2023-11-26 22:26:58"
+            "height": 1083,
+            "size": 424890,
+            "update": "2023-12-13 22:06:21"
         },
         "深海访客": {
             "path": "/音擎/深海访客.png",
-            "hash": "e9cb8956446b925313913d0ce821718c",
+            "hash": "00456badbc0d24fa366569dd163f72a7",
             "ext": "png",
             "width": 1920,
-            "height": 900,
-            "size": 296561,
-            "update": "2023-11-26 22:26:58"
+            "height": 1083,
+            "size": 383168,
+            "update": "2023-12-13 22:06:21"
         },
-        "钢铁肉垫": {
-            "path": "/音擎/钢铁肉垫.png",
-            "hash": "93a6add9e611060bf8970991d193385a",
+        "「电磁暴」-贰式": {
+            "path": "/音擎/「电磁暴」-贰式.png",
+            "hash": "e6cf2de54690dffa430580f9f3bda246",
             "ext": "png",
             "width": 1920,
-            "height": 900,
-            "size": 330049,
-            "update": "2023-11-26 22:26:58"
+            "height": 1083,
+            "size": 370935,
+            "update": "2023-12-13 22:06:21"
+        },
+        "仿制星徽引擎": {
+            "path": "/音擎/仿制星徽引擎.png",
+            "hash": "760b19bcf9366d4c8e6fba627c8747df",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 385326,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「月相」-上弦": {
+            "path": "/音擎/「月相」-上弦.png",
+            "hash": "b14a8ccfa171f3de643c9ccaa9a6ca2d",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 358519,
+            "update": "2023-12-13 22:06:21"
+        },
+        "人为刀俎": {
+            "path": "/音擎/人为刀俎.png",
+            "hash": "8f6aeaefd08945aa06e9f8b84b2c35bd",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 380072,
+            "update": "2023-12-13 22:06:21"
+        },
+        "加农转子": {
+            "path": "/音擎/加农转子.png",
+            "hash": "50925d5c254fb8ae6d32d2088990b0f0",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 408030,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「残响」-II型": {
+            "path": "/音擎/「残响」-II型.png",
+            "hash": "76ff8d88e74cf33fb9e972b94804658e",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 382866,
+            "update": "2023-12-13 22:06:21"
+        },
+        "旋钻机-赤轴": {
+            "path": "/音擎/旋钻机-赤轴.png",
+            "hash": "84475b2286fb3a098b7a177ef98fce24",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 388003,
+            "update": "2023-12-13 22:06:21"
+        },
+        "星徽引擎": {
+            "path": "/音擎/星徽引擎.png",
+            "hash": "e39b754799a90a5088db3926c2940c74",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 374096,
+            "update": "2023-12-13 22:06:21"
         },
         "「电磁暴」-叁式": {
             "path": "/音擎/「电磁暴」-叁式.png",
-            "hash": "097735271311eb0cc74f0695f3017f3a",
+            "hash": "eaeb38d58f7777efb7e6b5fdb76ea254",
             "ext": "png",
             "width": 1920,
-            "height": 900,
-            "size": 294411,
-            "update": "2023-11-26 22:26:58"
+            "height": 1083,
+            "size": 341204,
+            "update": "2023-12-13 22:06:21"
+        },
+        "贵重骨核": {
+            "path": "/音擎/贵重骨核.png",
+            "hash": "11763acf168ea36e0423fcc323ba3c2f",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 371690,
+            "update": "2023-12-13 22:06:21"
+        },
+        "德玛拉电池II型": {
+            "path": "/音擎/德玛拉电池II型.png",
+            "hash": "75488526edffda59d326dca591dc069c",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 406161,
+            "update": "2023-12-13 22:06:21"
+        },
+        "钢铁肉垫": {
+            "path": "/音擎/钢铁肉垫.png",
+            "hash": "02bc654c8a891b53f9af67d3a102f8a2",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 387747,
+            "update": "2023-12-13 22:06:21"
+        },
+        "触电唇彩": {
+            "path": "/音擎/触电唇彩.png",
+            "hash": "35c91bd942417fb1824fbccc6f1ebf1d",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 354315,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「湍流」-矢型": {
+            "path": "/音擎/「湍流」-矢型.png",
+            "hash": "33baedf93eb50a814bcaec9c2f425b5a",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 345583,
+            "update": "2023-12-13 22:06:21"
         },
         "燃狱齿轮": {
             "path": "/音擎/燃狱齿轮.png",
-            "hash": "8fdcf7e5c75616e9b2f5237596c50447",
+            "hash": "bd0b9bc82bf60b54af0e7d324e4e22ff",
             "ext": "png",
             "width": 1920,
-            "height": 900,
-            "size": 378618,
-            "update": "2023-11-26 22:26:58"
+            "height": 1083,
+            "size": 385735,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「湍流」-铳型": {
+            "path": "/音擎/「湍流」-铳型.png",
+            "hash": "bcc3e0afe09e02705a1bb1631c21922a",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 397592,
+            "update": "2023-12-13 22:06:21"
+        },
+        "比格气缸": {
+            "path": "/音擎/比格气缸.png",
+            "hash": "d0855af49d050da4be05567193f3a3d6",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 395457,
+            "update": "2023-12-13 22:06:21"
+        },
+        "家政员": {
+            "path": "/音擎/家政员.png",
+            "hash": "30d7ab63afc2ef1b0cda6c5bcdbdecf3",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 405745,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「电磁暴」-壹式": {
+            "path": "/音擎/「电磁暴」-壹式.png",
+            "hash": "68f0219fd47165de3fc9b99294795f89",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 371476,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「残响」-I型": {
+            "path": "/音擎/「残响」-I型.png",
+            "hash": "974f7ebd50835e81a2e2f797ca4276bd",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 387607,
+            "update": "2023-12-13 22:06:21"
+        },
+        "聚宝箱": {
+            "path": "/音擎/聚宝箱.png",
+            "hash": "b40c2fbe22dc1adc4092463edf23783b",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 404364,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「湍流」-斧型": {
+            "path": "/音擎/「湍流」-斧型.png",
+            "hash": "df7c5b443aa4c24e12b12ffae585e88c",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 370573,
+            "update": "2023-12-13 22:06:21"
+        },
+        "「残响」-III型": {
+            "path": "/音擎/「残响」-III型.png",
+            "hash": "4aa7bbc710939cbce9fc9eda06cd73e7",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 366791,
+            "update": "2023-12-13 22:06:21"
+        }
+    },
+    "role": {
+        "格莉丝·霍华德": {
+            "path": "/role/格莉丝·霍华德.png",
+            "hash": "841b81a869d51de5343a6ee4db77fb62",
+            "ext": "png",
+            "width": 1920,
+            "height": 2880,
+            "size": 698556,
+            "update": "2023-12-13 22:06:21"
         }
     }
 }
