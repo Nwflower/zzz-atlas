@@ -18,6 +18,7 @@ Zenless Zone Zero-Atlas是一个主要由[`米游社@听语惊花`](https://bbs.
 | Bot(plugin)         | language | link                                       |
 | ------------------- | -------- | ------------------------------------------ |
 | Yunzai-Bot（Atlas） | Node.js  | [Atlas](https://github.com/Nwflower/atlas) |
+| ZZZeroUID | python  | [ZZZeroUID](https://github.com/ZZZure/ZZZeroUID) |
 
 以上项目仅为目前已知的引用本仓库的部分仓库，不代表本仓库认同、支持他们的立场或观点，上网冲浪，谨防受骗、上当。
 
