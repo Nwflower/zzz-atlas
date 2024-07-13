@@ -1,13 +1,492 @@
 {
-    "othername": {
-        "角色攻略": {
-            "path": "/othername/角色攻略.yaml",
-            "hash": "c1703152c92d97762e78161d1ad9f001",
-            "ext": "yaml",
-            "width": -1,
-            "height": -1,
-            "size": 20,
-            "update": "2024-07-08 00:08:22"
+    "角色攻略": {
+        "丽娜": {
+            "path": "/角色攻略/丽娜.png",
+            "hash": "2f11eea8c77741f562f759f03c19c630",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2776678,
+            "update": "2024-07-14 00:02:05"
+        },
+        "猫又": {
+            "path": "/角色攻略/猫又.png",
+            "hash": "08669aa043baa1ad5b1f2d28d626ec66",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2833620,
+            "update": "2024-07-14 00:02:05"
+        },
+        "艾莲": {
+            "path": "/角色攻略/艾莲.png",
+            "hash": "da8d8ce3514362fa503c932843e8d4e0",
+            "ext": "png",
+            "width": 1000,
+            "height": 9290,
+            "size": 2637715,
+            "update": "2024-07-14 00:02:05"
+        },
+        "安东": {
+            "path": "/角色攻略/安东.png",
+            "hash": "c7e4ce1e55c38976d41b6b2f8649ab36",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2880808,
+            "update": "2024-07-14 00:02:05"
+        },
+        "安比": {
+            "path": "/角色攻略/安比.png",
+            "hash": "bc0f2164980c3fdcdf70b0aaef0c8c0f",
+            "ext": "png",
+            "width": 1000,
+            "height": 7827,
+            "size": 2357544,
+            "update": "2024-07-14 00:02:05"
+        },
+        "莱卡恩": {
+            "path": "/角色攻略/莱卡恩.png",
+            "hash": "3dfbbe51d41a00e645c0add8466c66f4",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2719037,
+            "update": "2024-07-14 00:02:05"
+        },
+        "比利": {
+            "path": "/角色攻略/比利.png",
+            "hash": "1a6c7a98e064a67c055fdb19c37fc299",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2694357,
+            "update": "2024-07-14 00:02:05"
+        },
+        "珂蕾妲": {
+            "path": "/角色攻略/珂蕾妲.png",
+            "hash": "fbebce51f15d8c022b18b4ed0a739ddb",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2750838,
+            "update": "2024-07-14 00:02:05"
+        },
+        "妮可": {
+            "path": "/角色攻略/妮可.png",
+            "hash": "09a76f709699b1d2eff1dfea6c236384",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2848440,
+            "update": "2024-07-14 00:02:05"
+        },
+        "11号": {
+            "path": "/角色攻略/11号.png",
+            "hash": "be278a826f65abefbaa62d80df09dd21",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2830899,
+            "update": "2024-07-14 00:02:05"
+        },
+        "格莉丝": {
+            "path": "/角色攻略/格莉丝.png",
+            "hash": "86c48891c8e9b0a15a4d3350afe2c500",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2792664,
+            "update": "2024-07-14 00:02:05"
+        },
+        "本": {
+            "path": "/角色攻略/本.png",
+            "hash": "846c34a452d1299154a69490c40b524a",
+            "ext": "png",
+            "width": 1000,
+            "height": 7820,
+            "size": 2431026,
+            "update": "2024-07-14 00:02:05"
+        },
+        "苍角": {
+            "path": "/角色攻略/苍角.png",
+            "hash": "1142160abcf005ae691fcd7e5b4edee1",
+            "ext": "png",
+            "width": 1000,
+            "height": 8929,
+            "size": 2813059,
+            "update": "2024-07-14 00:02:05"
+        }
+    },
+    "音擎": {
+        "防暴者VI型": {
+            "path": "/音擎/防暴者VI型.png",
+            "hash": "5f1676550144ae0cdd8ede04c3e3d05f",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 534213,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「恒等式」-本格": {
+            "path": "/音擎/「恒等式」-本格.png",
+            "hash": "f1c2e2561f39a5d5bbe4c50e34c11abf",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 517383,
+            "update": "2024-07-14 00:02:05"
+        },
+        "双生泣星": {
+            "path": "/音擎/双生泣星.png",
+            "hash": "675244578414819729521fb423beef49",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 560707,
+            "update": "2024-07-14 00:02:05"
+        },
+        "嵌合编译器": {
+            "path": "/音擎/嵌合编译器.png",
+            "hash": "6d11316f498a35c0042f0a3ac4b2263b",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 563301,
+            "update": "2024-07-14 00:02:05"
+        },
+        "聚宝箱": {
+            "path": "/音擎/聚宝箱.png",
+            "hash": "df9a34a913c5ac95c314b2fccd68eb07",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 561424,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「残响」-Ⅰ型": {
+            "path": "/音擎/「残响」-Ⅰ型.png",
+            "hash": "c404ad5b29576a0ff6a046201b2e8258",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 514446,
+            "update": "2024-07-14 00:02:05"
+        },
+        "硫磺石": {
+            "path": "/音擎/硫磺石.png",
+            "hash": "697621162417fa3e9864e31012416d8e",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 560121,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「残响」-Ⅲ型": {
+            "path": "/音擎/「残响」-Ⅲ型.png",
+            "hash": "2fe195c198e848fc5f7575477c2f379e",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 505494,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「湍流」-斧型": {
+            "path": "/音擎/「湍流」-斧型.png",
+            "hash": "8319d489d087a6c0aed59220675cc4c9",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 509632,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「湍流」-铳型": {
+            "path": "/音擎/「湍流」-铳型.png",
+            "hash": "4bb2de18b8c62bbe556e87b96ef2dc27",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 548617,
+            "update": "2024-07-14 00:02:05"
+        },
+        "拘缚者": {
+            "path": "/音擎/拘缚者.png",
+            "hash": "008514abbad610061fadcd304e162ec3",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 586461,
+            "update": "2024-07-14 00:02:05"
+        },
+        "啜泣摇篮": {
+            "path": "/音擎/啜泣摇篮.png",
+            "hash": "423d3d7c1bcb97c2907b28a44f1b0b70",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 572879,
+            "update": "2024-07-14 00:02:05"
+        },
+        "旋钻机-赤轴": {
+            "path": "/音擎/旋钻机-赤轴.png",
+            "hash": "8bc789d1b19816c76ee28d834790a782",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 524082,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「月相」-朔": {
+            "path": "/音擎/「月相」-朔.png",
+            "hash": "40a9b7bfae89ccfd8c752baabf1a262a",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 503025,
+            "update": "2024-07-14 00:02:05"
+        },
+        "仿制星徽引擎": {
+            "path": "/音擎/仿制星徽引擎.png",
+            "hash": "e44189604301bd936bbdb8e4b317b2a4",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 538976,
+            "update": "2024-07-14 00:02:05"
+        },
+        "时光切片": {
+            "path": "/音擎/时光切片.png",
+            "hash": "aa5bd5773c0c76a4eea1c7fc9b87883a",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 539719,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「恒等式」-变格": {
+            "path": "/音擎/「恒等式」-变格.png",
+            "hash": "bda4dbc8cb60b072bb5f1e757bfe1959",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 532215,
+            "update": "2024-07-14 00:02:05"
+        },
+        "含羞恶面": {
+            "path": "/音擎/含羞恶面.png",
+            "hash": "390c7d0a65aa050903c0fef355dbba0a",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 554749,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「电磁暴」-叁式": {
+            "path": "/音擎/「电磁暴」-叁式.png",
+            "hash": "817dc0413c0482b3a83540a252aed4b1",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 498011,
+            "update": "2024-07-14 00:02:05"
+        },
+        "贵重骨核": {
+            "path": "/音擎/贵重骨核.png",
+            "hash": "5bee036c6daf70dd072f8120404576bd",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 524119,
+            "update": "2024-07-14 00:02:05"
+        },
+        "比格气缸": {
+            "path": "/音擎/比格气缸.png",
+            "hash": "ebd7d907bf97a2a548f0729ba0bcfffa",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 546557,
+            "update": "2024-07-14 00:02:05"
+        },
+        "兔能环": {
+            "path": "/音擎/兔能环.png",
+            "hash": "d54c34749619afb9550de2feedcdc967",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 538846,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「残响」-Ⅱ型": {
+            "path": "/音擎/「残响」-Ⅱ型.png",
+            "hash": "27aa8f08f7a1dd302b0bf211ddc63f2b",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 501953,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「月相」-晦": {
+            "path": "/音擎/「月相」-晦.png",
+            "hash": "dbc007d93609a0497adbe76b5189b22f",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 528981,
+            "update": "2024-07-14 00:02:05"
+        },
+        "深海访客": {
+            "path": "/音擎/深海访客.png",
+            "hash": "36bd24e00e2d4a7e2810c7be87ffddc1",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 542082,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「电磁暴」-壹式": {
+            "path": "/音擎/「电磁暴」-壹式.png",
+            "hash": "48cab90486f71e9561ab472572a041dd",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 535760,
+            "update": "2024-07-14 00:02:05"
+        },
+        "雨林饕客": {
+            "path": "/音擎/雨林饕客.png",
+            "hash": "dfd468ca76f1f153cd7b49cde195c429",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 521704,
+            "update": "2024-07-14 00:02:05"
+        },
+        "左轮转子": {
+            "path": "/音擎/左轮转子.png",
+            "hash": "539ded0d2d2e679aedb818d2e459fe12",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 549570,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「湍流」-矢型": {
+            "path": "/音擎/「湍流」-矢型.png",
+            "hash": "fe06a52e2ee46f403ba4deafc9ce9345",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 503779,
+            "update": "2024-07-14 00:02:05"
+        },
+        "逍遥游球": {
+            "path": "/音擎/逍遥游球.png",
+            "hash": "477b8594457635619a8b5a73cec9ea79",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 527416,
+            "update": "2024-07-14 00:02:05"
+        },
+        "燃狱齿轮": {
+            "path": "/音擎/燃狱齿轮.png",
+            "hash": "2025458e07ff7ebde098cc81e182601c",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 554142,
+            "update": "2024-07-14 00:02:05"
+        },
+        "加农转子": {
+            "path": "/音擎/加农转子.png",
+            "hash": "5b6e1f689406ac1be791b66923c33847",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 557408,
+            "update": "2024-07-14 00:02:05"
+        },
+        "星徽引擎": {
+            "path": "/音擎/星徽引擎.png",
+            "hash": "32be867be2b40eb5f07bb67ec21b2454",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 522597,
+            "update": "2024-07-14 00:02:05"
+        },
+        "家政员": {
+            "path": "/音擎/家政员.png",
+            "hash": "9308f5e3c721e130c92a956cae978671",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 551865,
+            "update": "2024-07-14 00:02:05"
+        },
+        "春日融融": {
+            "path": "/音擎/春日融融.png",
+            "hash": "914b7041d1594d9369a4f5ec870037f9",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 524354,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「月相」-望": {
+            "path": "/音擎/「月相」-望.png",
+            "hash": "5d303115ed98f0b238536468c5111ffe",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 539130,
+            "update": "2024-07-14 00:02:05"
+        },
+        "钢铁肉垫": {
+            "path": "/音擎/钢铁肉垫.png",
+            "hash": "588deed2e1d6858e939bbcf97c5ad707",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 558113,
+            "update": "2024-07-14 00:02:05"
+        },
+        "德玛拉电池Ⅱ型": {
+            "path": "/音擎/德玛拉电池Ⅱ型.png",
+            "hash": "7b244b8f121627d621270002b09781d7",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 546884,
+            "update": "2024-07-14 00:02:05"
+        },
+        "正版变身器": {
+            "path": "/音擎/正版变身器.png",
+            "hash": "9b81d978c394611896bc353f21b5fed9",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 535661,
+            "update": "2024-07-14 00:02:05"
+        },
+        "人为刀俎": {
+            "path": "/音擎/人为刀俎.png",
+            "hash": "75a2273f8a94277ae365c893d5da7203",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 517840,
+            "update": "2024-07-14 00:02:05"
+        },
+        "「电磁暴」-贰式": {
+            "path": "/音擎/「电磁暴」-贰式.png",
+            "hash": "09bff48ee756e368c0b1627124f27d21",
+            "ext": "png",
+            "width": 1920,
+            "height": 1083,
+            "size": 503137,
+            "update": "2024-07-14 00:02:05"
         }
     },
     "角色": {
@@ -18,488 +497,18 @@
             "width": 1920,
             "height": 2880,
             "size": 698556,
-            "update": "2024-07-08 00:08:22"
+            "update": "2024-07-14 00:02:05"
         }
     },
-    "音擎": {
-        "家政员": {
-            "path": "/音擎/家政员.png",
-            "hash": "9308f5e3c721e130c92a956cae978671",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 551865,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「月相」-朔": {
-            "path": "/音擎/「月相」-朔.png",
-            "hash": "40a9b7bfae89ccfd8c752baabf1a262a",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 503025,
-            "update": "2024-07-08 00:08:22"
-        },
-        "贵重骨核": {
-            "path": "/音擎/贵重骨核.png",
-            "hash": "5bee036c6daf70dd072f8120404576bd",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 524119,
-            "update": "2024-07-08 00:08:22"
-        },
-        "嵌合编译器": {
-            "path": "/音擎/嵌合编译器.png",
-            "hash": "6d11316f498a35c0042f0a3ac4b2263b",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 563301,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「残响」-Ⅲ型": {
-            "path": "/音擎/「残响」-Ⅲ型.png",
-            "hash": "2fe195c198e848fc5f7575477c2f379e",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 505494,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「恒等式」-本格": {
-            "path": "/音擎/「恒等式」-本格.png",
-            "hash": "f1c2e2561f39a5d5bbe4c50e34c11abf",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 517383,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「电磁暴」-壹式": {
-            "path": "/音擎/「电磁暴」-壹式.png",
-            "hash": "48cab90486f71e9561ab472572a041dd",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 535760,
-            "update": "2024-07-08 00:08:22"
-        },
-        "硫磺石": {
-            "path": "/音擎/硫磺石.png",
-            "hash": "697621162417fa3e9864e31012416d8e",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 560121,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「湍流」-斧型": {
-            "path": "/音擎/「湍流」-斧型.png",
-            "hash": "8319d489d087a6c0aed59220675cc4c9",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 509632,
-            "update": "2024-07-08 00:08:22"
-        },
-        "兔能环": {
-            "path": "/音擎/兔能环.png",
-            "hash": "d54c34749619afb9550de2feedcdc967",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 538846,
-            "update": "2024-07-08 00:08:22"
-        },
-        "仿制星徽引擎": {
-            "path": "/音擎/仿制星徽引擎.png",
-            "hash": "e44189604301bd936bbdb8e4b317b2a4",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 538976,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「电磁暴」-叁式": {
-            "path": "/音擎/「电磁暴」-叁式.png",
-            "hash": "817dc0413c0482b3a83540a252aed4b1",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 498011,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「月相」-晦": {
-            "path": "/音擎/「月相」-晦.png",
-            "hash": "dbc007d93609a0497adbe76b5189b22f",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 528981,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「湍流」-铳型": {
-            "path": "/音擎/「湍流」-铳型.png",
-            "hash": "4bb2de18b8c62bbe556e87b96ef2dc27",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 548617,
-            "update": "2024-07-08 00:08:22"
-        },
-        "深海访客": {
-            "path": "/音擎/深海访客.png",
-            "hash": "36bd24e00e2d4a7e2810c7be87ffddc1",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 542082,
-            "update": "2024-07-08 00:08:22"
-        },
-        "燃狱齿轮": {
-            "path": "/音擎/燃狱齿轮.png",
-            "hash": "2025458e07ff7ebde098cc81e182601c",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 554142,
-            "update": "2024-07-08 00:08:22"
-        },
-        "钢铁肉垫": {
-            "path": "/音擎/钢铁肉垫.png",
-            "hash": "588deed2e1d6858e939bbcf97c5ad707",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 558113,
-            "update": "2024-07-08 00:08:22"
-        },
-        "聚宝箱": {
-            "path": "/音擎/聚宝箱.png",
-            "hash": "df9a34a913c5ac95c314b2fccd68eb07",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 561424,
-            "update": "2024-07-08 00:08:22"
-        },
-        "啜泣摇篮": {
-            "path": "/音擎/啜泣摇篮.png",
-            "hash": "423d3d7c1bcb97c2907b28a44f1b0b70",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 572879,
-            "update": "2024-07-08 00:08:22"
-        },
-        "正版变身器": {
-            "path": "/音擎/正版变身器.png",
-            "hash": "9b81d978c394611896bc353f21b5fed9",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 535661,
-            "update": "2024-07-08 00:08:22"
-        },
-        "含羞恶面": {
-            "path": "/音擎/含羞恶面.png",
-            "hash": "390c7d0a65aa050903c0fef355dbba0a",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 554749,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「残响」-Ⅰ型": {
-            "path": "/音擎/「残响」-Ⅰ型.png",
-            "hash": "c404ad5b29576a0ff6a046201b2e8258",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 514446,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「残响」-Ⅱ型": {
-            "path": "/音擎/「残响」-Ⅱ型.png",
-            "hash": "27aa8f08f7a1dd302b0bf211ddc63f2b",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 501953,
-            "update": "2024-07-08 00:08:22"
-        },
-        "防暴者VI型": {
-            "path": "/音擎/防暴者VI型.png",
-            "hash": "5f1676550144ae0cdd8ede04c3e3d05f",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 534213,
-            "update": "2024-07-08 00:08:22"
-        },
-        "春日融融": {
-            "path": "/音擎/春日融融.png",
-            "hash": "914b7041d1594d9369a4f5ec870037f9",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 524354,
-            "update": "2024-07-08 00:08:22"
-        },
-        "德玛拉电池Ⅱ型": {
-            "path": "/音擎/德玛拉电池Ⅱ型.png",
-            "hash": "7b244b8f121627d621270002b09781d7",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 546884,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「恒等式」-变格": {
-            "path": "/音擎/「恒等式」-变格.png",
-            "hash": "bda4dbc8cb60b072bb5f1e757bfe1959",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 532215,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「月相」-望": {
-            "path": "/音擎/「月相」-望.png",
-            "hash": "5d303115ed98f0b238536468c5111ffe",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 539130,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「湍流」-矢型": {
-            "path": "/音擎/「湍流」-矢型.png",
-            "hash": "fe06a52e2ee46f403ba4deafc9ce9345",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 503779,
-            "update": "2024-07-08 00:08:22"
-        },
-        "时光切片": {
-            "path": "/音擎/时光切片.png",
-            "hash": "aa5bd5773c0c76a4eea1c7fc9b87883a",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 539719,
-            "update": "2024-07-08 00:08:22"
-        },
-        "双生泣星": {
-            "path": "/音擎/双生泣星.png",
-            "hash": "675244578414819729521fb423beef49",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 560707,
-            "update": "2024-07-08 00:08:22"
-        },
-        "人为刀俎": {
-            "path": "/音擎/人为刀俎.png",
-            "hash": "75a2273f8a94277ae365c893d5da7203",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 517840,
-            "update": "2024-07-08 00:08:22"
-        },
-        "加农转子": {
-            "path": "/音擎/加农转子.png",
-            "hash": "5b6e1f689406ac1be791b66923c33847",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 557408,
-            "update": "2024-07-08 00:08:22"
-        },
-        "比格气缸": {
-            "path": "/音擎/比格气缸.png",
-            "hash": "ebd7d907bf97a2a548f0729ba0bcfffa",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 546557,
-            "update": "2024-07-08 00:08:22"
-        },
-        "拘缚者": {
-            "path": "/音擎/拘缚者.png",
-            "hash": "008514abbad610061fadcd304e162ec3",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 586461,
-            "update": "2024-07-08 00:08:22"
-        },
-        "旋钻机-赤轴": {
-            "path": "/音擎/旋钻机-赤轴.png",
-            "hash": "8bc789d1b19816c76ee28d834790a782",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 524082,
-            "update": "2024-07-08 00:08:22"
-        },
-        "雨林饕客": {
-            "path": "/音擎/雨林饕客.png",
-            "hash": "dfd468ca76f1f153cd7b49cde195c429",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 521704,
-            "update": "2024-07-08 00:08:22"
-        },
-        "星徽引擎": {
-            "path": "/音擎/星徽引擎.png",
-            "hash": "32be867be2b40eb5f07bb67ec21b2454",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 522597,
-            "update": "2024-07-08 00:08:22"
-        },
-        "「电磁暴」-贰式": {
-            "path": "/音擎/「电磁暴」-贰式.png",
-            "hash": "09bff48ee756e368c0b1627124f27d21",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 503137,
-            "update": "2024-07-08 00:08:22"
-        },
-        "左轮转子": {
-            "path": "/音擎/左轮转子.png",
-            "hash": "539ded0d2d2e679aedb818d2e459fe12",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 549570,
-            "update": "2024-07-08 00:08:22"
-        },
-        "逍遥游球": {
-            "path": "/音擎/逍遥游球.png",
-            "hash": "477b8594457635619a8b5a73cec9ea79",
-            "ext": "png",
-            "width": 1920,
-            "height": 1083,
-            "size": 527416,
-            "update": "2024-07-08 00:08:22"
-        }
-    },
-    "角色攻略": {
-        "本": {
-            "path": "/角色攻略/本.png",
-            "hash": "df84c96d45c07bbb15cb9a35585e1600",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2871502,
-            "update": "2024-07-08 00:08:22"
-        },
-        "安东": {
-            "path": "/角色攻略/安东.png",
-            "hash": "c7e4ce1e55c38976d41b6b2f8649ab36",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2880808,
-            "update": "2024-07-08 00:08:22"
-        },
-        "安比": {
-            "path": "/角色攻略/安比.png",
-            "hash": "bc0f2164980c3fdcdf70b0aaef0c8c0f",
-            "ext": "png",
-            "width": 1000,
-            "height": 7827,
-            "size": 2357544,
-            "update": "2024-07-08 00:08:22"
-        },
-        "11号": {
-            "path": "/角色攻略/11号.png",
-            "hash": "be278a826f65abefbaa62d80df09dd21",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2830899,
-            "update": "2024-07-08 00:08:22"
-        },
-        "丽娜": {
-            "path": "/角色攻略/丽娜.png",
-            "hash": "2f11eea8c77741f562f759f03c19c630",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2776678,
-            "update": "2024-07-08 00:08:22"
-        },
-        "艾莲": {
-            "path": "/角色攻略/艾莲.png",
-            "hash": "da8d8ce3514362fa503c932843e8d4e0",
-            "ext": "png",
-            "width": 1000,
-            "height": 9290,
-            "size": 2637715,
-            "update": "2024-07-08 00:08:22"
-        },
-        "比利": {
-            "path": "/角色攻略/比利.png",
-            "hash": "1a6c7a98e064a67c055fdb19c37fc299",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2694357,
-            "update": "2024-07-08 00:08:22"
-        },
-        "苍角": {
-            "path": "/角色攻略/苍角.png",
-            "hash": "1142160abcf005ae691fcd7e5b4edee1",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2813059,
-            "update": "2024-07-08 00:08:22"
-        },
-        "妮可": {
-            "path": "/角色攻略/妮可.png",
-            "hash": "09a76f709699b1d2eff1dfea6c236384",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2848440,
-            "update": "2024-07-08 00:08:22"
-        },
-        "格莉丝": {
-            "path": "/角色攻略/格莉丝.png",
-            "hash": "876e6897369d5c827e6615a4cf85f586",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2812808,
-            "update": "2024-07-08 00:08:22"
-        },
-        "珂蕾妲": {
-            "path": "/角色攻略/珂蕾妲.png",
-            "hash": "fbebce51f15d8c022b18b4ed0a739ddb",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2750838,
-            "update": "2024-07-08 00:08:22"
-        },
-        "猫又": {
-            "path": "/角色攻略/猫又.png",
-            "hash": "08669aa043baa1ad5b1f2d28d626ec66",
-            "ext": "png",
-            "width": 1000,
-            "height": 8929,
-            "size": 2833620,
-            "update": "2024-07-08 00:08:22"
+    "othername": {
+        "角色攻略": {
+            "path": "/othername/角色攻略.yaml",
+            "hash": "c1703152c92d97762e78161d1ad9f001",
+            "ext": "yaml",
+            "width": -1,
+            "height": -1,
+            "size": 20,
+            "update": "2024-07-14 00:02:05"
         }
     }
 }
