@@ -61,6 +61,7 @@
         "格莉丝·霍华德": "/角色/格莉丝·霍华德.png"
     },
     "othername": {
-        "角色攻略": "/othername/角色攻略.yaml"
+        "角色攻略": "/othername/角色攻略.yaml",
+        "音擎": "/othername/音擎.yaml"
     }
 }
